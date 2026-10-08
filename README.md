@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2325-decode-the-message](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2325-decode-the-message) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
