@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2325-decode-the-message](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2325-decode-the-message) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [2325-decode-the-message](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2325-decode-the-message) |
 <!---LeetCode Topics End-->
