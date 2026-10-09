@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
