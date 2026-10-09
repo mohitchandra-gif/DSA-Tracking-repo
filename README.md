@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
