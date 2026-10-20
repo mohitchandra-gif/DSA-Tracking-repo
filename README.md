@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3945-digit-frequency-score](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
 | [2325-decode-the-message](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/2325-decode-the-message) |
+| [3945-digit-frequency-score](https://github.com/mohitchandra-gif/DSA-Tracking-repo/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
